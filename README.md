@@ -8,13 +8,13 @@ This project is an educational platform designed to provide users with comprehen
 
 ## Images on Mobile, Tablet and Desktop Sizes
 ### Mobile size
-![Screenshot 2024-03-01 at 18-59-57 Vite React TS](https://github.com/Th0rnike/planets-site-project/assets/116254117/90d2ad62-381b-466a-8e26-70f34423a25e)
+![mobile](https://github.com/Th0rnike/final/assets/116254117/6e8e731c-e9c9-47c1-90be-f6833c7a2c3a)
 
 ### Tablet size
-![Screenshot 2024-03-01 at 18-59-42 Vite React TS](https://github.com/Th0rnike/planets-site-project/assets/116254117/89ccc14e-01a6-4608-b3bd-b897cb469b1b)
+![tablet](https://github.com/Th0rnike/final/assets/116254117/f39aab91-b81c-4ad9-9fb8-e08604bc6150)
 
 ### Desktop size
-![Screenshot 2024-03-01 at 18-59-18 Vite React TS](https://github.com/Th0rnike/planets-site-project/assets/116254117/8d512858-7f3a-46c0-b97b-b5c727f1dbc2)
+![desktop](https://github.com/Th0rnike/final/assets/116254117/d209acde-44fb-43a1-8e04-346828c20fcb)
 
 
 ## Features
